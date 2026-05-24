@@ -506,20 +506,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%77%79%61%74%74.%73%6E%79%64%65%72@%68%6F%70%65.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-github_user',
-        title: 'Github_user',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
