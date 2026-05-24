@@ -7,7 +7,7 @@ first_name: Wyatt
 middle_name: 
 last_name: Snyder
 contact_note: >
-  prefered contact method: <a href="mailto:wyatt.snyder@hope.edu">email</a>
+  Contact me: <a href="mailto:wyatt.snyder@hope.edu">email</a> | <a href="https://github.com/wsnyder215">GitHub</a> | <a href="https://www.linkedin.com/in/wyatt-snyder-25b4a8315/">LinkedIn</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a Mathematics and Computer Science double major at Hope College interested in high-impact STEM research fields. Currently, that means modeling LLM behavior stability and alignment, but I'm always open to new research ideas or collaborations. 
 footer_text: >

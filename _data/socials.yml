@@ -2,9 +2,20 @@
 # The socials will be displayed in the order they are defined here.
 # For more info: https://github.com/george-gca/jekyll-socials
 
-# Built-in social platforms (jekyll-socials provides default logos for these)
-email: wyatt.snyder@hope.edu
-github_user: wsnyder215
+# NOTE: jekyll-socials v0.0.6 has a bug where it crashes on nil logo values.
+# The plugin attempts to call .split('.') on logo_value without checking for nil,
+# causing "undefined method `split' for nil" error even with built-in socials.
+# See: https://github.com/george-gca/jekyll-socials/issues (filed as bug)
+# 
+# WORKAROUND: Social links are currently disabled (social: false in about.md).
+# Contact information is instead displayed in the footer via contact_note in _config.yml
+#
+# Once jekyll-socials is updated or fixed, social links can be re-enabled.
+
+# Commented out until jekyll-socials bug is fixed:
+# email: wyatt.snyder@hope.edu
+# github_user: wsnyder215
+
 
 
 
