@@ -414,11 +414,211 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-ancient-empires-before-alexander",
+          title: 'Ancient Empires Before Alexander',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ancient_empires/";
+            },},{id: "books-brief-history-of-time",
+          title: 'Brief History of Time',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/brief_history_of_time/";
+            },},{id: "books-great-philosophical-debates-free-will-and-determinism",
+          title: 'Great Philosophical Debates - Free Will and Determinism',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/free_will_determinism/";
+            },},{id: "books-introduction-to-psychology",
+          title: 'Introduction to Psychology',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/intro_psychology/";
+            },},{id: "books-kinds-of-minds",
+          title: 'Kinds of Minds',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/kinds_of_minds/";
+            },},{id: "books-the-philosophy-of-science",
+          title: 'The Philosophy of Science',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/philosophy_of_science/";
+            },},{id: "books-the-power-of-myth",
+          title: 'The Power of Myth',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/power_of_myth/";
+            },},{id: "books-the-precipice",
+          title: 'The Precipice',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/precipice/";
+            },},{id: "books-predictably-irrational",
+          title: 'Predictably Irrational',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/predictably_irrational/";
+            },},{id: "books-the-scout-mindset",
+          title: 'The Scout Mindset',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/scout_mindset/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-animal-liberation-now-the-definitive-classic-renewed",
+          title: 'Animal Liberation Now - The Definitive Classic Renewed',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/animal_liberation/";
+            },},{id: "books-deep-work-rules-for-focused-success-in-a-distracted-world",
+          title: 'Deep Work - Rules for Focused Success in a Distracted World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/deep_work/";
+            },},{id: "books-ethics-in-the-real-world-90-essays-on-things-that-matter",
+          title: 'Ethics in the Real World - 90 Essays on Things that Matter',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ethics_in_the_real_world/";
+            },},{id: "books-ishmael",
+          title: 'Ishmael',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ishmael/";
+            },},{id: "books-the-life-you-can-save",
+          title: 'The Life You Can Save',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/life_you_can_save/";
+            },},{id: "books-my-struggle-books-1-4",
+          title: 'My Struggle - Books 1-4',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/my_struggle_1-4/";
+            },},{id: "books-nonviolent-communication-a-language-of-life",
+          title: 'Nonviolent Communication - A Language of Life',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nonviolent_communication/";
+            },},{id: "books-parfit-a-philosopher-and-his-mission-to-save-morality",
+          title: 'Parfit - A Philosopher and his Mission to Save Morality',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/parfit/";
+            },},{id: "books-abundance",
+          title: 'Abundance',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/abundance/";
+            },},{id: "books-against-empathy",
+          title: 'Against Empathy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/against_empathy/";
+            },},{id: "books-the-alignment-problem-machine-learning-and-human-values",
+          title: 'The Alignment Problem - Machine Learning and Human Values',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/alignment_problem/";
+            },},{id: "books-atomic-habits",
+          title: 'Atomic Habits',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/atomic_habits/";
+            },},{id: "books-the-biology-of-desire-why-addiction-is-not-a-disease",
+          title: 'The Biology of Desire - Why Addiction is not a Disease',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/biology_of_desire/";
+            },},{id: "books-difficult-conversations-how-to-discuss-what-matters-most",
+          title: 'Difficult Conversations - How to Discuss What Matters Most',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/difficult_conversations/";
+            },},{id: "books-extreme-ownership",
+          title: 'Extreme Ownership',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/extreme_ownership/";
+            },},{id: "books-the-little-book-of-talent",
+          title: 'The Little Book of Talent',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/little_book_of_talent/";
+            },},{id: "books-the-meaning-of-life",
+          title: 'The Meaning of Life',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/living_nonviolent_communication/";
+            },},{id: "books-open-to-life-learning-to-love-yourself-and-the-world",
+          title: 'Open to Life - Learning to Love Yourself and the World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/open_to_life/";
+            },},{id: "books-real-happiness-the-power-of-meditation",
+          title: 'Real Happiness - The Power of Meditation',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/real_happiness/";
+            },},{id: "books-stranger-in-a-strange-land",
+          title: 'Stranger in a Strange Land',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/stranger_in_a_strange_land/";
+            },},{id: "books-strangers-drowning-impossible-idealism-drastic-choices-and-the-urge-to-help",
+          title: 'Strangers Drowning - Impossible Idealism, Drastic Choices, and the Urge to Help',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/strangers_drowning/";
+            },},{id: "books-the-sweet-spot-the-pleasures-of-suffering-and-the-search-for-meaning",
+          title: 'The Sweet Spot - The Pleasures of Suffering and the Search for Meaning...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sweet_spot/";
+            },},{id: "books-thinking-fast-and-slow",
+          title: 'Thinking, Fast and Slow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thinking_fast_slow/";
+            },},{id: "books-ultralearning",
+          title: 'Ultralearning',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ultralearning/";
+            },},{id: "books-when-breath-becomes-air",
+          title: 'When Breath Becomes Air',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/when_breath_becomes_air/";
+            },},{id: "books-the-better-angels-of-our-nature-why-violence-has-declined",
+          title: 'The Better Angels of our Nature - Why Violence has Declined',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/better_angels_of_our_nature/";
+            },},{id: "books-the-happiness-trap-how-to-stop-struggling-and-start-living",
+          title: 'The Happiness Trap - How to Stop Struggling and Start Living',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/happiness_trap/";
+            },},{id: "books-introduction-to-probability",
+          title: 'Introduction to Probability',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/introduction_to_probability/";
+            },},{id: "books-real-analysis-a-long-form-mathematics-textbook",
+          title: 'Real Analysis - A Long-Form Mathematics Textbook',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/real_analysis/";
+            },},{id: "books-the-state-of-affairs-rethinking-infidelity",
+          title: 'The State of Affairs - Rethinking Infidelity',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/state_of_affairs/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
