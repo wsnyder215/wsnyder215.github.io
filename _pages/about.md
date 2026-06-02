@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Mathematics and Computer Science double major at Hope College with a focus on high-impact STEM research. I'm currently exploring the stability and alignment of large language models (LLMs), with a particular interest in understanding how these models behave and can be reliably directed toward beneficial outcomes.
+I'm a Mathematics and Computer Science double major at Hope College with a focus on high-impact STEM research. Currently, I'm exploring LLM behavioral stability by modeling personality change in AI systems but am open to other AI Safety-adjacent areas.
 
-My research interests span machine learning theory, AI safety, and the intersection of mathematics and computer science. I'm always eager to collaborate on novel research projects and explore new directions in computational science.
+More generally, I want to aid in the development of safe AI models, whether that be through ensuring CoT transparency, building robust behavioral guardrails, or detecting misaligned actions through anomaly detection or benchmarks. I have experience in modeling and statistical theory, and hope to continue developing my tool repertoire in the upcoming years. 
 
-Beyond my coursework, I enjoy working on problems at the intersection of theory and application—whether that's building tools, analyzing systems, or designing experiments. Feel free to reach out if you're interested in discussing research, collaboration opportunities, or just want to chat about what I'm working on.
+Outside of my coursework I enjoy reading, playing clarinet, and traversing the midwest on foot or bike. I'm always happy to meet people- feel free to reach out!
