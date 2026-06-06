@@ -5,5 +5,5 @@ description: Investigating consistency and stability in language model behavior 
 importance: 1
 category: research
 ---
-
+## Summary
 Research exploring the stability and consistency of large language model behavior and personality traits across different contexts and inputs.
