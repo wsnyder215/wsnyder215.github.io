@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📈 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://wsnyder215.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -200,6 +200,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
+  - _posts/
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -598,7 +600,7 @@ third_party_libraries:
       js: "sha256-BPrwikijIybg9OQC5SYFFqhBjERYOn97tCureFgYH1E="
       map: "sha256-lbF5CsospW93otqvWOIbbhj80CjazrZXvamD7nC7TBI="
     url:
-      css: "https://cdn.jsdelivr.net/npm/swiper@{{version}}/swiper-bundle.min.css"
+      css: "https.cdn.jsdelivr.net/npm/swiper@{{version}}/swiper-bundle.min.css"
       js: "https://cdn.jsdelivr.net/npm/swiper@{{version}}/swiper-element-bundle.min.js"
       map: "https://cdn.jsdelivr.net/npm/swiper@{{version}}/swiper-element-bundle.min.js.map"
     version: "11.0.5"
@@ -648,25 +650,3 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
-
-# -----------------------------------------------------------------------------
-# Get external JSON data
-# -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
